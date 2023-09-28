@@ -11,7 +11,7 @@ let categories = ['Electonics', 'Home', 'Fashion', 'Books', 'Beauty', 'watches',
       <div className='w-1 h-7 bg-[#ff9900] my-4 '>
 <div className='flex mx-6 space-x-2'>
   <span className='text-2xl'><MdWindow/></span>
-  <span className='uppercase text-xl font-bold tracking-widest'>Categories</span>
+  <span className='uppercase text-xl  tracking-widest'>Categories</span>
 </div>
 <div className='mx-14 my-3'>{
 
